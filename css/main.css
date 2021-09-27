@@ -3,9 +3,9 @@ body {
 
 /* Home Page Style */
 .ww-home-page {
-  background: url("../images/home-img.jpg") no-repeat center center;
+  background: url("../images/home-img.jpeg") no-repeat center center;
   background-size: cover;
-  background-position: 70%;
+  background-position: 60%;
   height: 100vh;
   min-height: 480px;
   max-height: 1080px; }
@@ -60,6 +60,7 @@ body {
   position: relative;
   top: 2px;
   width: 40px;
+  margin-top: 30%;
   -webkit-animation: pulse 1s ease infinite;
   animation: pulse 1s ease infinite;
  }
